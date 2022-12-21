@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./kali-stkit.PNG "Optional title")
+![Alt text](./dio-kali-stkit.PNG "Optional title")
