@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./kali-setoolkit.PNG "Optional title")
+![Alt text](./kali-stkit.PNG "Optional title")
